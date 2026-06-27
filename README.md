@@ -124,6 +124,12 @@ http://127.0.0.1:8000/docs
 - Real-time web search
 - Distributed task execution
 
+## 🎥 Demo Video
+
+📹 **Project Demonstration Video**
+
+[Watch the Demo Video](https://drive.google.com/file/d/1vujpJHO0fFmCI9rsxMa4AME0g-qCHFgK/view?usp=sharing)
+
 ---
 
 ## Author
